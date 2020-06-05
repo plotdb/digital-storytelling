@@ -6,9 +6,8 @@
 
  * 敘事工具
    - 探索式視覺化
-   - 互動視覺化
-   - 分歧式敘事
-   - 捲動敘事 / scrolltelling
+   - 參與式敘事
+   - 互動 / 動畫敘事
    - 遊戲化 / gamification
    - 解釋性探索 / explorable explanation
    - 視覺化以外
@@ -28,6 +27,7 @@
  * Kepler's Tally of Planets
    - https://archive.nytimes.com/www.nytimes.com/interactive/science/space/keplers-tally-of-planets.html
  * 立委們都質詢了什麼樣的東西呢？ - https://showcase.plotdb.com/prj/ly/
+ * BBC / FlightRisk - https://bbc.com/future/bespoke/20140724-flight-risk/
 
 
 ### 參與式敘事
@@ -56,7 +56,7 @@
      - http://www.npr.org/sections/money/2015/02/11/384988128/the-fall-and-rise-of-u-s-inequality-in-2-graphs
    - Sorting Algorithms Animations - http://www.sorting-algorithms.com/
  * Transition by Click
-   - http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html?_r=0
+   - http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html
    - How We Share the World ( Cartogram ) - http://metrocosm.com/how-we-share-the-world/
    - What's You Pay Gap? - http://graphics.wsj.com/gender-pay-gap/
 
